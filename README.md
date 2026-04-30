@@ -7,12 +7,9 @@ Interactive visualizations of two biological datasets using Python and NetworkX 
 ## 📁 Repository Structure
 
 ```
-bio-viz-a4/
-├── A4_2023xxx.ipynb        # Main notebook (all code + outputs)
-├── tree_radial.png          # Tree Layout 1: Radial/Dendrogram
-├── tree_hierarchical.png    # Tree Layout 2: Hierarchical Top-Down
-├── graph_geographic.png     # Graph Layout 1: Geographic (Lat/Lon)
-├── graph_spring.png         # Graph Layout 2: Force-Directed Spring
+bio-viz/
+├── bio-viz.ipynb        # Main notebook (all code + outputs)
+├── index.html           # Github page export for the notebook
 └── README.md
 ```
 
@@ -86,14 +83,14 @@ pip install networkx matplotlib numpy jupyter
 
 ```bash
 git clone https://github.com/Malik-Ahmed-Abdullah/bio-viz.git
-cd bio-viz-a4
-jupyter notebook A4_2023xxx.ipynb
+cd bio-viz
+jupyter notebook bio-viz.ipynb
 ```
 
 ### View online
 
 The rendered notebook is published via GitHub Pages at:
-`https://<your-username>.github.io/bio-viz-a4/`
+`https://Malik-Ahmed-Abdullah.github.io/bio-viz/`
 
 ---
 
