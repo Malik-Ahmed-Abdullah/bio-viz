@@ -1,7 +1,5 @@
 # 🧬 bio-viz — Tree & Graph Visualization
 
-**Assignment 4 | Data Visualization**
-
 Interactive visualizations of two biological datasets using Python and NetworkX — an evolutionary phylogenetic tree and a Monarch butterfly migration network.
 
 ---
