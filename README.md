@@ -87,7 +87,7 @@ pip install networkx matplotlib numpy jupyter
 ### Run locally
 
 ```bash
-git clone https://github.com/Malik-Ahmed-Abdullah/bio-viz-a4.git
+git clone https://github.com/Malik-Ahmed-Abdullah/bio-viz.git
 cd bio-viz-a4
 jupyter notebook A4_2023xxx.ipynb
 ```
