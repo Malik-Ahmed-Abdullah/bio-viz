@@ -33,13 +33,9 @@ bio-viz/
 
 Nodes radiate outward from the root (LUCA) in a circular pattern. Each domain gets a wedge of the circle proportional to its diversity. Colour-coded by domain/kingdom.
 
-![Radial Layout](tree_radial.png)
-
 **Layout 2 — Hierarchical (Top-Down)**
 
 Classic top-down tree with the root at the top and species at the bottom. Node x-positions are computed from leaf counts so that deep branches (e.g. Animalia) get proportionally more horizontal space. Leaf labels are rotated 45° for readability.
-
-![Hierarchical Layout](tree_hierarchical.png)
 
 ---
 
@@ -61,13 +57,9 @@ Classic top-down tree with the root at the top and species at the bottom. Node x
 
 Nodes are placed at their real geographic coordinates. Edge colour and thickness encode migration volume. Reveals the physical flyways over North America — the central corridor (Texas → Great Plains → Great Lakes) carries the heaviest traffic.
 
-![Geographic Layout](graph_geographic.png)
-
 **Layout 2 — Force-Directed (Spring)**
 
 Nodes are positioned by connectivity strength. High-traffic hubs (Michoacán, Michigan, Ontario) are pulled to the centre. A glowing edge effect highlights the busiest corridors.
-
-![Spring Layout](graph_spring.png)
 
 ---
 
